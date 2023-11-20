@@ -1,0 +1,233 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/data/myorg/MyInfra/@sandbox/nextjs-tutorial"
+	],
+	"file_history":
+	[
+		"/data/Downloads/chocoladedroom-nl_mailer.php",
+		"/data/Downloads/chocoladedroom.nl_access_ssl_log",
+		"/data/Downloads/chocoladedroom.nl_access_log",
+		"/data/Downloads/chocoladedroom.nl_error_log",
+		"/data/Downloads/chocoladedroom.nl_mailer.php",
+		"/tmp/wsb-live2-migration/wsb_data_export_webdev-websitebuilder-prod-managed-redis-svc-cluster-local-6379_2023-07-26T09-58-23-564Z.json",
+		"/tmp/wsb-live2-migration/wsb_data_export_webdev-websitebuilder-prod-managed-redis-svc-cluster-local-6379_2023-07-26T09-45-47-529Z.json",
+		"/data/Projects/Sepo/MyCloud/McCloud/nc-server/lib/private/Files/Storage/Local.php",
+		"/data/Projects/OneCom/.Docs/Wsb/Couchdb/WSB_CouchDB_Prod_Migration_Domains_Status.txt",
+		"/home/sepo/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/sepo/Downloads/foo.json",
+		"/home/sepo/.config/sublime-text/Packages/JSCS-Formatter/JSCS-Formatter.sublime-settings",
+		"/data/Projects/Sepo/iPhone_Sms_Report/reports/dubaiParking/Q1_2023/Sepo_Parking_Report_Q1_2023.raw.txt",
+		"/data/Downloads/nl.merlijnvastgoedstyling:cur:web.data.Site_site(ORIG).json",
+		"/data/Downloads/nl.merlijnvastgoedstyling:cur:web.data.Site_site(MODIFIED).json",
+		"/data/Downloads/wsb-databases-pre-migration.txt",
+		"/data/Downloads/WSB_Outage_04_Apr_2023.html",
+		"/data/Projects/Sepo/MyCloud/McCloud/nc-server/apps/dav/lib/Connector/Sabre/FilesPlugin.php",
+		"/data/Projects/Sepo/MyCloud/McCloud/nc-server/cron.php",
+		"/data/Downloads/nextcloud_seporapi.sql",
+		"/data/Downloads/nextcloud_seporapi_mod.sql",
+		"/data/Projects/OneCom/simple-site-migration/common/localCustomerList/list/allCustomers.json",
+		"/data/Downloads/T-0-alreadyMigrated-targetDomains.json",
+		"/data/Downloads/Lorem_Ipsum_Big.txt",
+		"/data/Projects/OneCom/Wsb/scripts/domain-dumps/dieterdavidscholz.de/public.public.json",
+		"/data/Downloads/allCustomerData_21Aug.json",
+		"/data/Downloads/nextcloud.log",
+		"/data/Projects/.Sandbox/textra-export/messaging.db",
+		"/home/sepo/.config/sublime-text/Packages/JsFormat/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getReplyToEmailFromHttpPost",
+			"recipient",
+			"getMailerFormValues",
+			"processMail",
+			"debug",
+			"<option[^>]*>([^<]*)</option>",
+			"AFC011A3-6ECC-4586-B2FB-804B39C385B8",
+			"E00EC3C3-C604-4831-B825-5613A3CE9AC3",
+			"AFC011A3-6ECC-4586-B2FB-804B39C385B8",
+			"SIZE_PROPERTYNAME",
+			"$propFind->han",
+			"$propFind->handle",
+			"users",
+			"use",
+			"/data",
+			"9723885",
+			"\\n*",
+			"\\s*",
+			"\\\\"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$1\\n",
+			"$1",
+			"$1\\n",
+			"$1",
+			"\\\\1",
+			"",
+			"-"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Nextjs_Tutorial.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
